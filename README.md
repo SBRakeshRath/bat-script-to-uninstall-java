@@ -4,13 +4,13 @@
 
 ### Method -1
 
-#### step 1
-Open the script
+
+1.Open the script
 
 <img width="947" alt="image" src="https://github.com/SBRakeshRath/bat-script-to-uninstall-java/assets/75027068/0f05c779-28e7-4783-88f8-9156e72f7366">
 
-#### step 2
-you can direct download the file by clicking on the download icon 
+
+2.you can direct download the file by clicking on the download icon 
 <img width="940" alt="image" src="https://github.com/SBRakeshRath/bat-script-to-uninstall-java/assets/75027068/344f2589-5199-4ad9-a851-f6223e4fcf15">
 
 
@@ -41,11 +41,11 @@ you can direct download the file by clicking on the download icon
    <img width="919" alt="image" src="https://github.com/SBRakeshRath/bat-script-to-uninstall-java/assets/75027068/0f9b8e01-2bf4-49bc-98ab-a207b7a59b37">
 
 7. paste it in the script.txt file then save it and close it
-8. Rename it to "Script.bat"
+8. Rename it to "script.bat"
 
    <img width="132" alt="image" src="https://github.com/SBRakeshRath/bat-script-to-uninstall-java/assets/75027068/b5f06497-7b0a-427e-9c1d-2c8c39e7a432">
 
-## How to rn
+## How to run
 
 Just Double click on it to see the magic happen.....
 
