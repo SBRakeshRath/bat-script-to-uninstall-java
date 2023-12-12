@@ -7,7 +7,7 @@ cd /d "%~dp0" && ( if exist "%temp%\getadmin.vbs" del "%temp%\getadmin.vbs" ) &&
 
 @REM --------------------------------------
 
-Title Java Uninstaller script by --- https://github.com/SBRakeshRath ---
+Title Java Uninstaller
 echo:
 
 echo --------------------------------------
