@@ -1,7 +1,11 @@
 # bat-script-to-uninstall-java
 
+# How to Download the script 
+
+# Method -1
+
 ### step 1
-OPen the script
+Open the script
 
 <img width="947" alt="image" src="https://github.com/SBRakeshRath/bat-script-to-uninstall-java/assets/75027068/0f05c779-28e7-4783-88f8-9156e72f7366">
 
@@ -11,7 +15,7 @@ you can direct download the file by clicking on the download icon
 
 
 
-## way - 2
+## Method 2
 
 1. Check If file extension is enabled or not
  a. search folder options
@@ -34,7 +38,7 @@ you can direct download the file by clicking on the download icon
 6. Rename it to "Script.bat"
    <img width="132" alt="image" src="https://github.com/SBRakeshRath/bat-script-to-uninstall-java/assets/75027068/b5f06497-7b0a-427e-9c1d-2c8c39e7a432">
 
-## How to rn
+# How to rn
 
 Just Double click on it to see the magic happen.....
 
