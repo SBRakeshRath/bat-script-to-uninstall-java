@@ -81,6 +81,20 @@ if %java_version_major% GTR 7 (
 )
 
 
+@REM check if  C:\Program Files\Eclipse Adoptium exists and if it does then remove it
+
+if exist "C:\Program Files\Eclipse Adoptium" (
+    echo "Eclipse Adoptium exists so removing it"
+    rmdir /s /q "C:\Program Files\Eclipse Adoptium"
+) else (
+    echo "Eclipse Adoptium does not exist"
+)
+
+
+
+
+
+
 
 echo %java_version_major%
 
